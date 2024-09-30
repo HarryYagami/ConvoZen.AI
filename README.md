@@ -11,7 +11,7 @@ Click the image below to watch the demo video:
 
 ## Voice Bot Demo
 
-Listen to our voice bot in action:
+Listen to our Human-like AI driven voice bot in action:
 
 [Listen to Voice Bot Demo](./ConvoZen.AI_voice_bot_demo.mp3)
 
