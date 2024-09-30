@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./logo.png" alt="ConvoZen.AI Logo" width="200"/>
+  <img src="./logo.png" alt="ConvoZen.AI Logo" width="600"/>
 </p>
 
 # ConvoZen.AI
