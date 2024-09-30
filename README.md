@@ -13,6 +13,6 @@ Click the image below to watch the demo video:
 
 Listen to our voice bot in action:
 
-[Listen to Voice Bot Demo](.ConvoZen.AI_voice_bot_demo.mp3)
+[Listen to Voice Bot Demo](./ConvoZen.AI_voice_bot_demo.mp3)
 
 
